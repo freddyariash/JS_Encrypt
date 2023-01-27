@@ -60,4 +60,4 @@ Incluye la etiqueta "**challengeonecodificador3**" o "**challengeonecodificador4
 5) Accede a tu correo electrónico para conseguir tu Insignia Exclusiva para este desafío 🏆
 6) ¡No olvides publicar un link o un vídeo de tu proyecto en Linkedin! 🏁
 
-     <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/yhull-freddy-arias-hoyos-13590a39/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
